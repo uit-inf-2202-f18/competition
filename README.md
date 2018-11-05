@@ -4,6 +4,8 @@ In the  [third assignment](https://github.com/uit-inf-2202-f18/assignment-3) in 
 
 This type of web services are very relevant for the both the local, national, and international industry. We are therefore arraning a competetion where you can display your solution for two local companies GoFish and Serit IT-partner. There are prizes, pizza, and nice diplomas.
 
+The competition is on Thursday 08.11.18, 14:15, in Lille Aud.
+
 To participate in the competition you need to prepare a 5 minute presentation of your solution. We will judge the solution based on three criteria all of which should be part of the presentation:
 1. Code.
 2. Beauty.
